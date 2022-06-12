@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="logo" title="#logo" src="assets/spa.gif" />
+  <img alt="logo" title="#logo" src="images/spa.gif" />
 </h1>
 
 ## :rocket: Tecnologias
